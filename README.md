@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**srikar117/srikar117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Srikar, an AI & Data Science student who enjoys building things with code, breaking them, and learning along the way.  
+I like working on practical projects, exploring machine learning, and occasionally getting distracted by Formula 1.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently working on
+- AI & ML projects (learning by doing)
+- Web-based tools that solve real problems
+- Improving problem-solving and DSA skills
+
+---
+
+##  Tools & Tech
+- Languages: Python, JavaScript
+- ML / Data: NumPy, Pandas, Scikit-learn, NLTK
+- Web: HTML, CSS, JavaScript
+- Databases & backend: SQL, FastAPI
+- Tools: Git, GitHub, VS Code, Postman
+
+---
+
+##  How to reach me
+- GitHub: you're already here😁
+- Email: maddukurisrikar@gmail.com
+
+---
+ If you find my projects interesting, feel free to star them!
