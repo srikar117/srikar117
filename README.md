@@ -10,10 +10,10 @@ I like working on practical projects, exploring machine learning, and occasional
 - Problem-solving & DSA
 - Simple web tools
 
-## Tech & Tech
+## Tools & Tech
 Python, JavaScript  
 NumPy, Pandas, scikit-learn, NLTK  
-HTML, CSS, SQL  
+HTML, CSS, SQL, FastAPI
 Git, GitHub, VS Code, Postman
 
 ## Reach me
