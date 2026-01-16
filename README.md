@@ -11,7 +11,7 @@ I like working on practical projects, exploring machine learning, and occasional
 - Simple web tools
 
 ## Tools & Tech
-Languages : Python, JavaScript, C++
+Languages : Python, JavaScript
 ML/Data : NumPy, Pandas, scikit-learn, NLTK  
 Web & Backend : HTML, CSS, SQL, FastAPI
 Tools : Git, GitHub, VS Code, Postman
