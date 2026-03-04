@@ -13,11 +13,11 @@ I like working on practical projects, exploring machine learning, and occasional
 ## Tools & Tech
 Languages : Python, JavaScript
 
-ML/Data : NumPy, Pandas, scikit-learn, NLTK  
+ML/Data : NumPy, Pandas, scikit-learn, LLMs, RAG  
 
 Web & Backend : HTML, CSS, SQL, FastAPI
 
-Tools : Git, GitHub, VS Code, Postman
+Tools : Git, GitHub, VS Code, Postman, Langchain
 
 ## Reach me
 📧 maddukurisrikar@gmail.com
