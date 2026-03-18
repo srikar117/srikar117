@@ -13,7 +13,7 @@ I like working on practical projects, exploring machine learning, and occasional
 ## Tools & Tech
 Languages : Python, JavaScript
 
-ML/Data : NumPy, Pandas, scikit-learn, LLMs, RAG  
+ML/Data : NumPy, Pandas, scikit-learn, LLMs, RAG, NLP
 
 Web & Backend : HTML, CSS, SQL, FastAPI
 
